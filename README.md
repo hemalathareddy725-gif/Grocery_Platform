@@ -1,4 +1,4 @@
-# Aforro Backend Assignment (Round 2)
+# Grocery_Platform
 
 Django + DRF backend covering order processing, inventory, product search/autocomplete,
 Redis caching, Celery async jobs, and Docker.
